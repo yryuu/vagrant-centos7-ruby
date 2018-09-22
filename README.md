@@ -6,5 +6,5 @@ vagrantでCentOS7のruby環境構築用のファイル
 2 vagrant up 
 3 vagrant ssh
 
-#補足
+# 補足
 /srv/shareフォルダを共有フォルダにしていますので、共有したいときはそこを使う
